@@ -1,9 +1,1 @@
-{
-  "name": "Copy of Motta's Team - Architecture",
-  "description": "Especificação técnica e visual do ecossistema fitness Motta's Team com foco em Supabase e Carga Adaptativa.",
-  "requestFramePermissions": [
-    "camera",
-    "microphone",
-    "geolocation"
-  ]
-}
+Permission denied
